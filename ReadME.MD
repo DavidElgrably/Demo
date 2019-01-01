@@ -6,7 +6,7 @@ git status
 git push origin master
 
 '''
-My Web SITE [link her ] (http://ynet.co.il)
+My Web SITE [link her ](http://ynet.co.il)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
