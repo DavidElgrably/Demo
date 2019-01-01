@@ -25,3 +25,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 -First list item
      - First nested list item
        - Second nested list item
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
